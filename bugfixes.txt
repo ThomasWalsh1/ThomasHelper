@@ -1,0 +1,6 @@
+1/19/24
+After creating this project in a project folder template, there are some issues that still need to be worked out.
+None of the Chrome opening buttons are performing their functions correctly.
+p.WaitFor() may be the issue, because after chrome closes, the function then begins to run.
+
+FIX - Put code for mouse movement after the bar does its round up.
