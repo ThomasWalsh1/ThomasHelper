@@ -21,5 +21,14 @@ Generates a To-Do list application that allows for the saving and loading of To-
 ToDoList uses Java serialization to save ToDoList data in the /saves folder.
 These To-Do lists can be accessed using the search TextField at the bottom of the GUI followed by the load button.
 
+<h2> Opening Guitar Practice </h2>
+Opens a chrome window and simulates mouse clicks that open up an online metronome.
+
+<h2> Opening Steam </h2>
+Operates as a shortcut for launching the Steam Desktop application.
+
+<h2> Yet to be implemented: Opening Discord </h2>
+Operates as a shortcut for launching the Discord Desktop application.
+
 
 
